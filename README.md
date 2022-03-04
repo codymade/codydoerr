@@ -26,7 +26,10 @@
 >A top down(0.5) Lovecraftian themed puzzle game where utilizing light helps you along the way 
 >  
 >I was the project lead for the full duration of this project. I spent my time developing the tasks according to the project requirements the team set up and assisting design ideas. I helped manage the scope, milestone dates, and final polishing as the project came to a close and ensured that all team members were able to collaborate to get the assets we needed to finish. I was able to contribute to the programming in many scripts made by the programmers on this team, as well as making my own for various tasks.
-  
+
+### Accreditation
+The picture found in my profile was created for a project I helped in. I help to create the character scenarios for [Who goes there?](https://sercansengun.itch.io/who-goes-there), which was submitted as a part of a ProcJam.  
+Art by Sercan Sengun
 
 <!---
 codydoerr/codydoerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
