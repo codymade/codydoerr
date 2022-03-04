@@ -30,7 +30,7 @@
 ### Accreditation
 The picture found in my profile was created for a project I helped in. I helped to create the character scenarios for [Who goes there?](https://sercansengun.itch.io/who-goes-there), which was submitted as a part of a ProcJam.  
 Art by Sercan Sengun
-(The above work is licensed under a Creative Commons Attribution-Non-Commercial-ShareAlike 4.0 International http://creativecommons.org/licenses/by-nc-sa/4.0/)
+(The above work (Who goes there?) is licensed under a Creative Commons Attribution-Non-Commercial-ShareAlike 4.0 International http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 <!---
 codydoerr/codydoerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
