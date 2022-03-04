@@ -8,7 +8,7 @@
    
  How to reach me:  
  >cody.doerr@yahoo.com  
- >(309)258 - 9782  
+ >(309) 258 - 9782  
 
 
 ## Portfolio Work  
