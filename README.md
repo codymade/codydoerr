@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @codydoerr
-- 👀 I’m a Game Designer and Unity Gameplay Programmer and I enjoy designing mechanics in new and unique ways
-- 🌱 I’m currently learning Unity, C#, and preparing to take the Unity Associate Game Design and Programmer exams.
-- 💞️ I’m looking to collaborate on any projects dealing with the development of children in adolesence to help them in their daily lives
-- 📫 How to reach me: 
--     cody.doerr@yahoo.com
--     (309)258 - 9782
+Cody Doerr [@codydoerr]
+ I’m a Game Designer and Unity Gameplay Programmer and I enjoy designing mechanics in new and unique ways
+ I’m currently learning Unity, C#, and preparing to take the Unity Associate Game Design and Programmer exams.
+ I’m looking to collaborate on any projects dealing with the development of children in adolesence to help them in their daily lives
+ How to reach me: 
+     cody.doerr@yahoo.com
+     (309)258 - 9782
 
 
 - Work I have Done
