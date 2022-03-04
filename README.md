@@ -14,7 +14,7 @@
 ## Portfolio Work  
 [Hologuardians](https://codydoerr.itch.io/hologuardians) - A Jam Game with the Theme 'It is Not Real'  
 >A top down shooter where you utilize copies of yourself to dodge bullets, destroy shields and enemies, and solve platforming puzzles  
->I was the programmer for all portions of this project along with UI design and setting up the Prefabs within Unity for Brad to develop the levels.  
+>I was the programmer for all portions of this project along with UI design and setting up the Prefabs within Unity for the level designer to put them together into a game.  
 
 [Thylla and the Old Gods](https://isu-game-dev-club.itch.io/thylla-and-the-old-gods) - A game produced in 15 weeks along side a small group of indie developers in the Game Development Club
      
