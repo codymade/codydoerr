@@ -2,7 +2,7 @@
   
  Game Designer and Unity Gameplay Programmer   
    
- Learning Unity, C#, and preparing to take the Unity Associate Game Design and Programmer exams.  
+ Unity, C#, and preparing to take the Unity Associate Game Design and Programmer exams.  
    
  Excited to collaborate on any projects dealing with the development of children in adolesence to help them in their daily lives  
    
