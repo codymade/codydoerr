@@ -4,7 +4,7 @@
    
  Unity, C#, Javascript and preparing to take the Unity Associate Game Design and Programmer exams.  
    
- Excited to collaborate on any projects dealing with the development of children in adolesence to help them in their daily lives  
+ Excited to collaborate on any projects dealing with the cognative development to help people in their daily lives  
    
  How to reach me:  
  >cody.doerr@yahoo.com  
