@@ -1,6 +1,6 @@
 # Cody Doerr [[@codydoerr]](https://github.com/codydoerr)
   
- Game Designer and Unity Gameplay Programmer   
+ Game Designer and Gameplay Programmer   
    
  Unity, C#, Javascript and preparing to take the Unity Associate Game Design and Programmer exams.  
    
