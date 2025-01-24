@@ -1,4 +1,4 @@
-# Cody Doerr [[@codydoerr]](https://github.com/codydoerr)
+# Cody [[@codymade]](https://github.com/codymade)
   
  Game Designer and Gameplay Programmer   
    
@@ -7,12 +7,12 @@
  Excited to collaborate on any projects dealing with the cognative development to help people in their daily lives  
    
  How to reach me:  
- >cody.doerr@yahoo.com  
+ >codygamedesign@gmail.com  
  >(309) 258 - 9782  
 
 
 ## Portfolio Work  
-[Hologuardians](https://codydoerr.itch.io/hologuardians) - A Jam Game with the Theme 'It is Not Real'  
+[Hologuardians](https://codymade.itch.io/hologuardians) - A Jam Game with the Theme 'It is Not Real'  
 >A top down shooter where you utilize copies of yourself to dodge bullets, destroy shields and enemies, and solve platforming puzzles  
 >I was the programmer for all portions of this project along with UI design and setting up the Prefabs within Unity for the level designer to put them together into a game.  
 
