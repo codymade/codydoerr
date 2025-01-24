@@ -8,7 +8,6 @@
    
  How to reach me:  
  >codygamedesign@gmail.com  
- >(309) 258 - 9782  
 
 
 ## Portfolio Work  
